@@ -1,0 +1,87 @@
+🏢 1. Business Problem
+
+The company is generating strong sales, but profit is inconsistent and often negative.
+
+👉 Objective:
+
+Identify reasons behind losses
+Analyze impact of discount, category, region, and customers
+Provide actionable recommendations to improve profitability
+🔍 2. Key Findings
+💰 1. Sales vs Profit
+High sales do not always lead to high profit
+Many high-sales orders result in negative profit
+
+👉 Insight:
+
+Increasing sales alone is not enough; profitability depends on pricing and discount strategy
+
+🏷️ 2. Discount Impact
+Strong negative relationship between discount and profit
+Higher discounts → lower profit → more losses
+
+👉 Insight:
+
+Excessive discounting is a major reason for loss-making orders
+
+🛍️ 3. Category Analysis
+Furniture → High sales but low profit ❌
+Office Supplies → Lower sales but better profit ✅
+Technology → High sales and high profit ✅
+
+👉 Insight:
+
+Furniture is inefficient, while Technology is the most profitable category
+
+📦 4. Sub-Category Analysis (Root Cause)
+Tables & Bookcases → Major loss contributors ❌
+Chairs & Furnishings → Profitable ✅
+
+👉 Insight:
+
+Losses in Furniture are driven mainly by specific sub-categories
+
+🌍 5. Region Analysis
+Central region → Highest number of loss orders ❌
+South region → Lowest loss orders ✅
+
+👉 Insight:
+
+Regional performance varies significantly; Central region needs attention
+
+👤 6. Customer Analysis
+Some customers generate consistent losses
+High-frequency customers are not always profitable
+
+👉 Insight:
+
+Customer-level discounting and behavior impact profitability
+
+🧠 3. Overall Conclusion
+
+The primary reason for inconsistent profitability is aggressive discounting, especially in the Furniture category and Central region, leading to a high number of loss-making transactions.
+
+💡 4. Business Recommendations
+🏷️ 1. Optimize Discount Strategy
+Limit high discounts on low-margin products
+Set discount thresholds
+🛍️ 2. Improve Furniture Category
+Review pricing of Tables & Bookcases
+Reduce discounts on these sub-categories
+🌍 3. Focus on Central Region
+Analyze regional pricing strategy
+Control excessive discounting
+👤 4. Customer Segmentation
+Identify loss-making customers
+Avoid giving heavy discounts to them
+Reward high-profit customers
+📈 5. Focus on High-Profit Areas
+Invest more in Technology category
+Expand in profitable regions
+🚀 5. Final Outcome
+
+If implemented, these changes can:
+
+Reduce loss-making orders
+Improve overall profit margin
+Create a more sustainable business model
